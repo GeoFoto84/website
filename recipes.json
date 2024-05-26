@@ -25,6 +25,8 @@
         "difficulty": "Easy",
         "cuisine": "Italian",
         "caloriesPerServing": 300,
+        "dateAdded": "2024-05-26T10:00:00Z",
+        "dateUpdated": "2024-05-26T10:00:00Z",
         "tags": [
             "Pizza",
             "Italian"
@@ -63,6 +65,8 @@
         "difficulty": "Medium",
         "cuisine": "Italian",
         "caloriesPerServing": 450,
+        "dateAdded": "2024-05-26T10:00:00Z",
+        "dateUpdated": "2024-05-26T10:00:00Z",
         "tags": [
             "Pasta",
             "Italian"
